@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.base.1896506635/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.base.1896506635/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.base.1896506635/PATH/value=/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/home/jipe/android-ndk-r7c
+environment/project/cdt.managedbuild.toolchain.gnu.base.1896506635/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.base.1896506635/appendContributed=true
